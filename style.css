@@ -1,0 +1,42 @@
+P {
+font-size : 12pt;
+font-family : arial,helvetica;
+font-weight : normal;
+}
+H1 {
+font-size : 36pt;
+font-family : verdana,arial;
+text-decoration : underline;
+text-align : center;
+background-color : Teal;
+}
+BODY {
+background-color : #000000;
+font-family : arial;
+color : White;
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+input {
+    background-color: #FFFFFF;
+    border: none;
+    color: BLACK;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
